@@ -1,6 +1,6 @@
 # Discord Role Menu Bot
 
-A simple Discord music bot built with [discord.js](https://discord.js.org/) v14 and [discord-player](https://discord-player.js.org/) v7, capable of creating a customizable role menu that gives a user roles based on reactions.
+A simple Discord role menu bot built with [discord.js](https://discord.js.org/), capable of creating a customizable role menu that gives a user roles based on reactions.
 
 ## Features
 
