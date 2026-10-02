@@ -1,0 +1,12 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "clientId": "YOUR_APPLICATION_ID",
+  "guildId": "YOUR_SERVER_ID",
+  "menuTitle": "Pick Your Roles",
+  "menuDescription": "React below to get a role. Remove your reaction to remove the role.",
+  "roles": [
+    { "emoji": "🎮", "label": "Gamer", "roleId": "ROLE_ID_1" },
+    { "emoji": "🎨", "label": "Artist", "roleId": "ROLE_ID_2" },
+    { "emoji": "🎵", "label": "Music Lover", "roleId": "ROLE_ID_3" }
+  ]
+}
